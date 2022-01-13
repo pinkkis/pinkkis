@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**pinkkis/pinkkis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kristian Koivisto-Kokko, a Finnish expat living in Ireland. Experienced Frontend Web Developer, Noodling with backends with Node.js, and wating to Create cool video games and tooling. I also have a day job to actually pay bills :)
 
-Here are some ideas to get you started:
+I'm always on the lookout for new opportunities, so feel free to be in contact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ~~redacted~~ as a Senior Frontend Developer at Johnson Controls
+- 🌱 I’m currently learning the [Godot Engine](https://github.com/godotengine/godot) to create games
+- 💬 Ask me about Loom, Stencil, Angular, Node.js, Typescript, Sass
+- 📫 How to reach me:
+  - twitter: [@pinkkis](https://twitter.com/pinkkis)
+  - LinkedIn: [Kristian Koivisto-Kokko](https://www.linkedin.com/in/kristiankoivistokokko/)
+  - itch.io [Poison Vial Industries](https://poisonvial.itch.io/)
+  - youtube: [KristianKoivistoKokko](https://www.youtube.com/c/KristianKoivistoKokko)
+  - web: [Pinkkis.com](https://pinkkis.com)
+- 😄 Pronouns: He/Him
