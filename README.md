@@ -6,7 +6,7 @@ I'm always on the lookout for new opportunities, so feel free to be in contact.
 
 - 🔭 I’m currently working on ~~redacted~~ as a Senior Frontend Developer at Johnson Controls
 - 🌱 I’m currently learning the [Godot Engine](https://github.com/godotengine/godot) to create games
-- 💬 Ask me about Loom, Stencil, Angular, Node.js, Typescript, Sass
+- 💬 Ask me about Loom, StencilJS, Angular, Node.js, TypeScript, Sass
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - twitter: [@pinkkis](https://twitter.com/pinkkis)
